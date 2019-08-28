@@ -1,0 +1,7 @@
+Linear Algebra : https://www.souravsengupta.com/cds2016/lectures/Savov_Notes.pdf 
+Calculus : http://www.toomey.org/tutor/harolds_cheat_sheets/Harolds_Calculus_Notes_Cheat_Sheet_2017.pdf?fbclid=IwAR3egBMCUlIYPlN1Sq2zJJMlws5-1DUgIFjPbqfs5lYR7mx2yp9TPF84uQI 
+Probability Theory : https://static1.squarespace.com/static/54bf3241e4b0f0d81bf7ff36/t/55e9494fe4b011aed10e48e5/1441352015658/probability_cheatsheet.pdf 
+naive_bayes_classifier
+Statistics : 
+LoanDefault-Prediction
+math_of_machine_learning
